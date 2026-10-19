@@ -8,5 +8,7 @@ LeetCode Grind
 
 19-OCT-2026 - Rank - `3,456,310`
 
+20-OCT-2026 - Rank - `2,991,992`
+
 
 Let's keep pushing :) 
